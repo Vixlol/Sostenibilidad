@@ -1,0 +1,1 @@
+## 19/09/2025 Primer dia de Clase, introduccion a los criterios de evaluación/calificación
