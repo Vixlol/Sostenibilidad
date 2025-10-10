@@ -1,3 +1,14 @@
+### 10/10/2025
+Hoy hemos visto los conceptos clave sobre limites ambientales: la capacidad de carga y su relevancia para la humanidad. Vemos la importancia de la capacidad de carga, de cual es el maximo de individuos que un ecosistema puede aguantar. Algunas cosas que hemos visto sobre el tema:
+1. Curvas de crecimiento, comentamos las consecuencias si dejamos crecer sin control
+2. Como nos hacen pelearnos por la disponibilidad de recursos esenciales y limitantes
+3. Ejemplos de limites superados como la deforestacion extrema, pesca excesiva, etc.
+
+Pregunta: ¿Hay un limite para la poblacion humana?
+
+Si, pero desconocemos ese limite, solo sabemos que el mundo no se extiende infinitamente entonces debe existir un limite.
+
+
 ## Octubre
 
 ### 03/10/2025 
