@@ -1,3 +1,13 @@
+### 17/10/2025
+Hoy hablamos de las relaciones entre especies y la forma que nos adaptamos con las personas que vivimos con (mascotas, personas, seres vivos)
+Vimos las relaciones intraespecificas e interespecificas entre los distintos seres vivos
+Los seres humanos tambien formamos parte del ecosistema, nuestras relacion entre nosotros intraespecificas e interespecificas, nuestras formas de supervivencia, etc.
+
+Pregunta: ¿Que hacemos nosotros: cooperamos o competimos?
+Hacemos las dos cosas, depende de que nos referimos cooperaremos o competiremos, o las dos cosas a la vez.
+Por ejemplo en un partido de futbol los dos equipos cooperan para organizar todo el partido y el cuando van a jugar, pero compiten a la hora de jugar.
+
+
 ### 10/10/2025
 Hoy hemos visto los conceptos clave sobre limites ambientales: la capacidad de carga y su relevancia para la humanidad. Vemos la importancia de la capacidad de carga, de cual es el maximo de individuos que un ecosistema puede aguantar. Algunas cosas que hemos visto sobre el tema:
 1. Curvas de crecimiento, comentamos las consecuencias si dejamos crecer sin control
