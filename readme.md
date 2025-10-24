@@ -1,3 +1,14 @@
+### 24/10/2025
+Hemos hablado de las Estrategias de Crecimiento r y k (especie oportunista r - especie en equilibrio k)
+- Estrategia k crecimiento lento pero en entorno estable 
+- Estrategia r crecimiento rapido 
+
+Estrategia r y k son diferentes patrones del crecimiento de la poblacional y su impacto en los ecosistemas naturales
+
+Pregunta: ¿Que estrategia usamos los humanos?
+Usamos los dos, pero somos mas de la estrategia k, pero hubo momentos en la historia que hemos sido mas de la estrategia r y paises que estan mas cerca de la r que la k
+
+
 ### 17/10/2025
 Hoy hablamos de las relaciones entre especies y la forma que nos adaptamos con las personas que vivimos con (mascotas, personas, seres vivos)
 Vimos las relaciones intraespecificas e interespecificas entre los distintos seres vivos
