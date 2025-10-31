@@ -1,3 +1,10 @@
+### 31/10/2025
+Hablamos como la tierra es un sistema finito y sus recursos limitados
+Los recursos son limitados por su consumo creciente y desafio de satisfacer necesidades actuales
+Ciclo cerrado de la biosfera, en nuestro sistema finito todos los residuos se convierten en recursos, no existe un afuera donde tirar lo que sobra.
+Hablamos tambien del ciclo del agua, de donde sale y como la obtenemos, ademas de las tres dimensiones de la sostenibilidad: economia, sociedad y medio ambiente
+
+
 ### 24/10/2025
 Hemos hablado de las Estrategias de Crecimiento r y k (especie oportunista r - especie en equilibrio k)
 - Estrategia k crecimiento lento pero en entorno estable 
