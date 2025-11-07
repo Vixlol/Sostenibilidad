@@ -1,3 +1,6 @@
+### 07/11/2025
+No ha venido el profesor
+
 ### 31/10/2025
 Hablamos como la tierra es un sistema finito y sus recursos limitados
 Los recursos son limitados por su consumo creciente y desafio de satisfacer necesidades actuales
