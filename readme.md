@@ -1,3 +1,6 @@
+### 21/11/2025
+Falto el profesor
+
 ### 14/11/2025
 El viaje oculto del producto.
 Nosotros fabricamos cosas/herramientas para facilitarnos la vida y vivir mejor.
