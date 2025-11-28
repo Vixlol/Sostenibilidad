@@ -1,3 +1,25 @@
+### 28/11/2025
+Economia Lineal vs Circular:
+
+Hablamos de lo que son la economia lineal y circular, cuales son sus ventajas y una guia de como es su modelo sostenible.
+
+Modelo actual de la economia lineal: "Tomar, Hacer, Desechar"
+Es unidireccional y tiene un flujo: Extraccion - Produccion - Consumo - Residuo.
+Consecuencias del modelo lineal: Impacto Insostenible.
+Genera demasiado residuos que el reciclaje industrial no puede absorber.
+
+Economia circular: Cerrando los Ciclos.
+Principios Clave de Circularidad: Ecodiseño, Prioridad: Reutilizacion y reparacion, Integracion Ecosistema.
+Busca maximizar el valor de los productos y recursos manteniéndolos en uso el mayor tiempo posible, a través de la reutilización, reparación, refabricación y reciclaje para minimizar la generación de residuo.
+
+La Economia Verde es un modelo de desarrollo que busca la prosperidad económica y social sin dañar el medio ambiente.
+
+Pregunta:
+¿Y a mi que me cuentas? ¿Enfoque colectivo o individual?
+
+Enfoque colectivo tiene objetivos que son prioritarios y las decisiones se toman de manera cooperativa, buscando el beneficio común. En mi opinion es necesario una cooperacion comun minima para que la economia mejore.
+
+
 ### 21/11/2025
 Falto el profesor
 
