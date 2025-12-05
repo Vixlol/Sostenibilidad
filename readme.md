@@ -1,3 +1,28 @@
+### 05/12/2025
+En la clase de hoy hablaremos del siguiente tema:
+¿Cuanto "pesas" en el planeta? Huella Ecológica y de Carbono.
+
+Huella Ecológica:
+- Demanda vs Oferta: Comparar lo que consumimos contra lo que la Tierra pueda regenerar
+
+Huella de Carbono:
+Es el subconjunto mas critico de la huella ecologica, representa el 60% del impacto total.
+
+El total de gases de efecto invernadero emitidos directa o indirectamente.
+
+Vemos una línea del tiempo en como durante los años a seguido aumentando nuestra huella ecológica y de carbono.
+
+Estrategias para Mitigar esto:
+- Reducir el consumo (hardware, movilidad, consumo mas responsable).
+- Eficiencia (Green Coding).
+- Compensar (reforestacion).
+
+Pregunta:
+![footprint calculadora](image-1.png)
+
+
+## Diciembre
+
 ### 28/11/2025
 Economia Lineal vs Circular:
 
@@ -136,6 +161,8 @@ Materiales típicos usados:
 
 ### 07/11/2025
 No ha venido el profesor.
+
+## Noviembre
 
 ### 31/10/2025
 Hablamos como la tierra es un sistema finito y sus recursos limitados.
