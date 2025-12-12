@@ -1,3 +1,34 @@
+### 12/12/2025
+En el dia de hoy hablaremos del Cambio Climático: El Multiplicador de Amenazas.
+
+Impactos sistémicos en la economia, tecnologia y seguridad global:
+
+Comentamos como afecta el cambio climatico, como a cualquier variable modificado por el puede provacar amenazas (como la guerra por recursos)
+
+Evidencia del cambio climatico:
+- Aumento temperatura.
+- Eventos extremos (olas de calor, incendios).
+- Deshielo y Nivel del Mar.
+
+El codigo fuente de la crisis: Emisiones de Gases de Efecto Invernadero (Energia, transporte, etc.).
+
+Como impacta en la salud humana.
+
+Impacto de agua, alimentos y migraciones, por alteración de la produccion agricola, aumento de precios, migraciones forzadas.
+
+Analisis de los Riesgos y Costes, mas vale invertir dinero que no invertir.
+
+Geopolítica Climatica: La Carrera por los Recursos del Futuro, como los paises compiten por los distintos recursos disponibles.
+
+Posibles maneras de Mitigar el cambio climatico; energias renovables, eficiencia energetica, economia circular, etc.
+
+Pregunta: ¿Cuál es el principal emisor de CO2?
+- Son las actividades de los seres humanos, como por ejemplo la quema de combustibles fosiles para la generación de energia. 
+
+Pregunta 2: ¿Que puedo hacer yo como programador para mitigar el cambio climatico?
+- Buscar formas de optimizar y reducir el consumo de energia usado, por ejemplo optimizando un sistema antiguo que usa bastante energia.
+
+
 ### 05/12/2025
 En la clase de hoy hablaremos del siguiente tema:
 ¿Cuanto "pesas" en el planeta? Huella Ecológica y de Carbono.
