@@ -1,3 +1,28 @@
+### 9/1/2026
+Contaminación y Residuos (Huella digital y física).
+La contanimación que nos rodea y el impacto de la tecnologia (e-waste).
+
+Hablamos sobre qué se considera residuo y cómo esta percepción varía según la persona y el contexto, destacando la importancia de la reutilización y el reciclaje antes de desechar un objeto.
+
+También se habló del problema global de la basura electrónica, ya que muchos países desarrollados envían sus residuos a países subdesarrollados, donde se extraen materiales valiosos como oro.
+
+También comentamos el impacto de ciertos residuos en los sistemas naturales y urbanos, como el caso de las toallitas húmedas, que provocan grandes atascos en las alcantarillas.
+
+Hablamos un poco de las hormonas y como afectan nuestro cuerpo.
+
+Además, se mencionó cómo algunos residuos y contaminantes causan desastres ambientales por tirar residuos al agua, como incendios, espumas tóxicas y la contaminación de ríos y mares.
+
+Reflexión Personal:
+- Esta clase me ha hecho reflexionar sobre lo poco conscientes que somos del impacto real de nuestros residuos, especialmente los tecnológicos. Muchas veces cambiamos de móvil u ordenador sin pensar en lo que ocurre después con esos dispositivos.
+
+![reciclaje](reciclaje.jpg)
+
+Pregunta: ¿Por qué cambiaste de tu ultimo movil?
+- Porque la bateria se estropeo y no cargaba más, ademas ya tenia cierta edad el móvil y decidi que era hora de cambiarlo.
+
+
+## Enero 2026
+
 ### 12/12/2025
 En el dia de hoy hablaremos del Cambio Climático: El Multiplicador de Amenazas.
 
