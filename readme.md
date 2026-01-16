@@ -1,3 +1,28 @@
+### 16/1/2026
+Agenda 2030 y los Objetivos de Desarrollo Sostenible:
+
+En clase se ha trabajado la Agenda 2030 y los Objetivos de Desarrollo Sostenible (ODS), un conjunto de 17 objetivos aprobados por la ONU con el fin de mejorar la calidad de vida de las personas y proteger el planeta antes del año 2030.
+
+Se analizó cómo surgió la Agenda 2030, como respuesta a problemas globales como la pobreza, la desigualdad, el cambio climático y la falta de acceso a derechos básicos.
+
+Vimos los distintos objetivos de la agenda, y los comentamos de forma general y como se agrupa en tres dimensiones fundamentales:
+- Social (Personas): bienestar, educación, salud e igualdad.
+- Ambiental (Planeta): protección del medio ambiente y uso responsable de los recursos.
+- Económica y de gobernanza (Prosperidad y Paz): crecimiento económico sostenible, instituciones sólidas y cooperación internacional.
+
+Cada ODS se integra dentro de una o varias de estas dimensiones.
+
+Reflexión Personal:
+- Los ODS son necesarios porque ayudan a concienciar sobre problemas globales. Lo importante no es solo tener los objetivos, sino convertirlos en acciones reales y adaptadas a la realidad de cada país y de cada persona. Aunque los ODS tienen una intención positiva, también existen argumentos en contra que invitan a una reflexión crítica.
+
+Pregunta: Si crees que se van a conseguir los objetivos de desarrollo sostenible?
+- En mi opinión, no se van a conseguir todos los Objetivos de Desarrollo Sostenible tal y como están planteados para 2030, aunque sí se lograrán avances parciales en algunos de ellos.
+
+![objetivos](objetivos.jpg)
+
+
+
+
 ### 9/1/2026
 Contaminación y Residuos (Huella digital y física).
 La contanimación que nos rodea y el impacto de la tecnologia (e-waste).
