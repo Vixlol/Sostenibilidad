@@ -1,3 +1,23 @@
+### 23/01/2026
+Plan de Sostenibilidad Empresarial:
+
+En la clase de hoy analizamos cómo las empresas integran la sostenibilidad dentro de su estrategia. Se destacó que la sostenibilidad no es solo una opción, sino una condición de supervivencia, ya que las empresas dependen directamente de ecosistemas sanos, recursos naturales y de la confianza de la sociedad.
+
+Se estudió la estructura de un plan de sostenibilidad, que consta de varias fases:
+- Diagnóstico inicial, para conocer la situación real de la empresa.
+- Identificación de los grupos de interés, como empleados, clientes, proveedores o la sociedad.
+- Análisis de materialidad, para priorizar los impactos más relevantes.
+- Definición de acciones y métricas, donde se establecen objetivos concretos.
+
+Vimos la importancia de los Indicadorse (KPIs) lo que no se mide no mejora, y como se agrupan en las tres dimension de la sostenibilidad: ambiental, social y gobernanza.
+
+Pregunta: Un plan de sostenibilidad tiene una utilidad real o es un greenwashing?
+
+Desde mi punto de vista, un plan de sostenibilidad sí tiene una utilidad real, pero solo si se aplica de forma honesta y medible. Cuando el plan incluye objetivos claros, KPIs reales y un seguimiento continuo, se convierte en una herramienta muy útil para mejorar el impacto ambiental y social de la empresa, además de fortalecer su viabilidad a largo plazo.
+
+![plan](plan.png)
+
+
 ### 16/1/2026
 Agenda 2030 y los Objetivos de Desarrollo Sostenible:
 
@@ -19,8 +39,6 @@ Pregunta: Si crees que se van a conseguir los objetivos de desarrollo sostenible
 - En mi opinión, no se van a conseguir todos los Objetivos de Desarrollo Sostenible tal y como están planteados para 2030, aunque sí se lograrán avances parciales en algunos de ellos.
 
 ![objetivos](objetivos.jpg)
-
-
 
 
 ### 9/1/2026
